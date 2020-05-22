@@ -1,4 +1,4 @@
-## Installation
+## Running the app
 - Clone the repo in your terminal by clicking the _green_ clone or download button at the top right and copyin the url
 - In your terminal, type ```git clone URL```
   - replace URL with the url you copied
